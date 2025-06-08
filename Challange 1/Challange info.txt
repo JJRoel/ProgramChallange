@@ -1,0 +1,1 @@
+Create a desktop To-Do List application using Python and Tkinter. The app should allow users to add, view, complete, and delete tasks, with all data saved to a JSON file for persistence. The interface should be simple and intuitive, using input fields, buttons, and a list to display tasks.
