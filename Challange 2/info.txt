@@ -1,0 +1,12 @@
+Opdracht: Budgetbeheer App
+Ontwikkel een GUI-gebaseerde applicatie waarmee gebruikers hun inkomsten en uitgaven kunnen bijhouden en analyseren.
+Specificaties:
+- Gebruik tkinter of PyQt voor een overzichtelijke interface.
+- Laat gebruikers transacties toevoegen, inclusief datum, categorie en bedrag.
+- Toon een samenvatting van inkomsten, uitgaven en saldo.
+- Visualiseer financiële trends met grafieken.
+- Voeg filters toe om specifieke categorieën of periodes te bekijken.
+Bonusuitdagingen:
+- Voeg een functie toe om maandelijkse budgetten in te stellen en waarschuwingen te geven bij overschrijding.
+- Implementeer automatische categorisatie van uitgaven op basis van trefwoorden.
+- Exporteer data naar een CSV-bestand voor verdere analyse.
