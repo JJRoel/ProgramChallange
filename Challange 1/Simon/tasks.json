@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Buy groceries for the week",
+    "completed": false
+  },
+  {
+    "text": "Finish the Tkinter project report",
+    "completed": true
+  },
+  {
+    "text": "Schedule dentist appointment",
+    "completed": false
+  },
+  {
+    "text": "Water the plants",
+    "completed": true
+  },
+  {
+    "text": "Go for a 30-minute run",
+    "completed": false
+  },
+  {
+    "text": "Call the plumber about the leaky faucet",
+    "completed": false
+  }
+]
