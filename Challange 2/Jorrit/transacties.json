@@ -1,0 +1,17 @@
+[
+    {
+        "date": "10-10-2025",
+        "amount": 100.0,
+        "category": "Boodschappen"
+    },
+    {
+        "date": "16-10-2025",
+        "amount": 120.0,
+        "category": "Boodschappen"
+    },
+    {
+        "date": "4-12-2024",
+        "amount": 120.0,
+        "category": "Huur"
+    }
+]
